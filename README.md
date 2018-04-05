@@ -12,5 +12,6 @@ Rowan projectTools clone
 	cloneSpecUrl:
 		'https://raw.githubusercontent.com/dalehenrich/RowanSample1/master/specs/RowanSample1.ston'
 	gitRootPath: '$GS_HOME/shared/repos/'
-	useSsh: useSsh
+	useSsh: useSsh.
+Rowan projectTools load loadProjectNamed: 'RowanSample1'
 ```
