@@ -1,7 +1,7 @@
 # RowanSampler
 
-## file RowanSample1
-File url for the https://github.com/dalehenrich/RowanSample1 project (assuming RowanSampler has been cloned to disk:
+## file: RowanSample1
+File url for the https://github.com/dalehenrich/RowanSample1 project (assuming RowanSampler has been cloned to disk):
 ```
 file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/RowanSample1.ston
 ```
@@ -17,7 +17,7 @@ Rowan projectTools clone
 Rowan projectTools load loadProjectNamed: 'RowanSample1'
 ```
 
-## https RowanSample1
+## https:// RowanSample1
 Url for the https://github.com/dalehenrich/RowanSample1 project:
 ```
 https://raw.githubusercontent.com/dalehenrich/RowanSample1/master/specs/RowanSample1.ston
