@@ -12,10 +12,5 @@
 		#committishType : 'branch'
 	},
 	#repoPath : 'src',
-	#comment : '',
-	#packageNamesInLoadOrder : [
-		'RowanSample1-Core',
-		'RowanSample1-Extensions',
-		'RowanSample1-Tests'
-	]
+	#comment : ''
 }

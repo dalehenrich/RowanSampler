@@ -11,7 +11,7 @@ Use the url in the `prj list` to create a new github project, or execute the fol
 useSsh := true.	"set to false to clone using https:"
 Rowan projectTools clone
 	cloneSpecUrl:
-		file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/RowanSample1.ston'
+		'file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/RowanSample1.ston'
 	gitRootPath: '$GS_HOME/shared/repos/'
 	useSsh: useSsh.
 Rowan projectTools load loadProjectNamed: 'RowanSample1'
