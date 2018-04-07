@@ -33,3 +33,16 @@ Rowan projectTools clone
 	useSsh: useSsh.
 Rowan projectTools load loadProjectNamed: 'RowanSample1'
 ```
+
+## config creation code for RowanSample1
+Execute the following after the RowanSample1 has been cloned (not necessary to load the project before exporting config):
+```smalltalk
+((RwProjectConfiguration newNamed: 'Default' for: 'RowanSample1')
+		comment:
+				'standard config for RowanSample1. The BaselineOfRowanSample1 package should not be loaded.';
+		addConfig: 'RowanSample1-Core';
+		addConfig: 'RowanSample1-Extensions';
+		addConfig: 'RowanSample1-Tests';
+		addConfig: 'RowanSample1-XXX';
+		yourself) export
+```
