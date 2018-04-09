@@ -1,5 +1,11 @@
 # RowanSampler
 
+## file: Rowan, RowanSample1, and RowanSample2
+```
+file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/RowanSample1.ston
+file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/RowanSample2.ston
+file:/home/dhenrich/rogue/_homes/rogue/_home/shared/repos/RowanSampler/specs/Rowan.ston
+```
 ## file: RowanSample1
 File url for the https://github.com/dalehenrich/RowanSample1 project (assuming RowanSampler has been cloned to disk):
 ```
